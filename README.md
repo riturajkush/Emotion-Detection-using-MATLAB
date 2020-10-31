@@ -6,6 +6,7 @@ The project is implemented using a CNN model AlexNet present in Deep learning to
 > The implementation of project is done using MATLAB 2018 version
 
 To train the train the model run the file alex_net.m
+Or you can also the download the pre trained model from this drive link https://drive.google.com/file/d/1F2qJqriFS9NCAq8UyaDG8Mi_LFNi84fY/view?usp=sharing
 
 To detect real time run main_output.m
 
